@@ -1,12 +1,14 @@
+# About me 
 I am a PhD student of Computer Engineering at the SoC lab in  the University of British Columbia,  \
 working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/).
 My research mainly focuses on:  \
 1) Hadware accelerators for 5G systems.  \
 2) Hadware accelerators for Machine Learning workloads.  
 
-[[Resume](./docs/resume.pdf)] [[Linkedin](https://linkedin.com/in/momran66)]
-
-Email: mohamed.omran4192@gmai.com
+# Contact me
+###[[Resume](./docs/resume.pdf)] 
+###[[Linkedin](https://linkedin.com/in/momran66)]
+###Email: mohamed.omran4192@gmai.com
 
 # Education
 M.Sc, University of British Columbia, Canada, July 2020 \
@@ -31,10 +33,10 @@ applications.", _2020 IEEE 28th Annual International Symposium on Field-Programm
 # Teaching Experience
 1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20)  \
 2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20)  \
-3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15)  \
+3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15)  
 
 # Awards & Activites 
 1) UBC Graduate Support Initiative (GSI) Awards (2018 -- 2020)  \
 2) IEEE Xtreme 6.0 Competition (rated 9th in Egypt)  \
 3) Instructor for C++ training - VLSI Egypt Summer Courses (July 2015)  \
-4) Acheived 2nd in Mentor Graphics Contest of Design Verification of LC-3 Microcontroler (April 2015)  \
+4) Acheived 2nd in Mentor Graphics Contest of Design Verification of LC-3 Microcontroler (April 2015)  
