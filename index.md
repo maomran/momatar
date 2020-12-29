@@ -1,7 +1,8 @@
-I am a PhD student of Computer Engineering at the SoC lab in  the University of British Columbia, working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/).
+I am a PhD student of Computer Engineering at the SoC lab in  the University of British Columbia,  \
+working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/).
 My research mainly focuses on:  \
 1) Hadware accelerators for 5G systems.  \
-2) Hadware accelerators for Machine Learning workloads.  \
+2) Hadware accelerators for Machine Learning workloads.  
 
 [[Resume](./docs/resume.pdf)] [[Linkedin](https://linkedin.com/in/momran66)]
 
@@ -10,7 +11,7 @@ Email: mohamed.omran4192@gmai.com
 # Education
 
 M.Sc, University of British Columbia, Canada, July 2020 \
-Thesis: [Faster-than-Nyquist system design for next generation fixed transmission networks](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0385498)
+Thesis: [Design exploration of faster than Nyquist equalizer system](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0392616)
 
 B.Sc, Alexandria University, Egypt, June 2014  \
 Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
