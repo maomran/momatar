@@ -1,26 +1,23 @@
-
-
 I am a PhD student of Computer Engineering at the SoC lab in  the University of British Columbia, working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/).
-My research mainly focuses on:
-1) Hadware accelerators for 5G systems.
-2) Hadware accelerators for Machine Learning workloads.  
+My research mainly focuses on:  \
+1) Hadware accelerators for 5G systems.  \
+2) Hadware accelerators for Machine Learning workloads.  \
 
-[[Curriculum Vitae](./docs/resume.pdf)] [[Linkedin](https://linkedin.com/in/momran66)]
+[[Resume](./docs/resume.pdf)] [[Linkedin](https://linkedin.com/in/momran66)]
 
 Email: mohamed.omran4192@gmai.com
 
 # Education
 
-PhD, University of British Columbia, Canada, July 2020 \\
-Thesis: [Faster-than-Nyquist system design for next generation fixed transmission networks
-](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0385498)
+M.Sc, University of British Columbia, Canada, July 2020 \
+Thesis: [Faster-than-Nyquist system design for next generation fixed transmission networks](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0385498)
 
-B.Sc, Alexandria University, Egypt, June 2014
+B.Sc, Alexandria University, Egypt, June 2014  \
 Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
 # Professional Experience
 
 |Jan. 2018 -- Present    | Research Assistant       | University of British Columbia, Canada             |
-|Feb. 2016 -- Jan. 2018 | Design Verification Engineerin   | Intel Corporation, Malaysia                   |
+|Feb. 2016 -- Jan. 2018 | Design Verification Engineer   | Intel Corporation, Malaysia                   |
 |Jan. 2015 -- Jan. 2016 | Research Assistant | American University of Cairo, Egypt             |
 |October. 2013 -- August. 2014 | Verification Internship | Si-ware Systems, Egypt             |
 
