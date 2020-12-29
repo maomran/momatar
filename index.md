@@ -7,7 +7,7 @@ My research mainly focuses on:  \
 
 # Contact
 [[Resume](./docs/resume.pdf)] [[Linkedin](https://linkedin.com/in/momran66)]  \
-[[Email](mohamed.omran4192@gmail.com)]  [Phone][(+1(604)-788-9175)]
+[[Email](mohamed.omran4192@gmail.com)] [[Phone](+1(604)-788-9175)]
 
 # Education
 M.Sc, University of British Columbia, Canada, July 2020 \
