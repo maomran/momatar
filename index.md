@@ -9,7 +9,6 @@ My research mainly focuses on:  \
 Email: mohamed.omran4192@gmai.com
 
 # Education
-
 M.Sc, University of British Columbia, Canada, July 2020 \
 Thesis: [Design exploration of faster than Nyquist equalizer system](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0392616)
 
@@ -18,18 +17,24 @@ Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
 # Professional Experience
 
 |Jan. 2018 -- Present    | Research Assistant       | University of British Columbia, Canada             |
-|Feb. 2016 -- Jan. 2018 | Design Verification Engineer   | Intel Corporation, Malaysia                   |
+|Feb. 2016 -- Jan. 2018 | Verification Engineer   | Intel Corporation, Malaysia                   |
 |Jan. 2015 -- Jan. 2016 | Research Assistant | American University of Cairo, Egypt             |
-|October. 2013 -- August. 2014 | Verification Internship | Si-ware Systems, Egypt             |
+|Oct. 2013 -- Aug. 2014 | Verification Internship | Si-ware Systems, Egypt             |
 
 # Publications
-* **M. O. Matar**, M. Jana, J. Mitra, L. Lampe, and M. Lis. "A turbo maximum-a-posteriori equalizer for faster-thannyquist
+* **M. O. Matar**, M. Jana, J. Mitra, L. Lampe, and M. Lis. "A turbo maximum-a-posteriori equalizer for faster-than nyquist
 applications.", _2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)_, (acceptance rate: 26%)
+[[paper](https://ieeexplore.ieee.org/abstract/document/9114873)] [[video presentation](https://www.youtube.com/watch?v=sY71FAcP8Bg)]
 
-* M. A. Ewais, **M. A. Omran**, A. Raafat, and Y. Alkabani. "A virtual memory architecture to enhance stt-ram performance as main memory." _In 2016 IEEE Canadian Conference on Electrical  nd Computer Engineering (CCECE)_, pages 1–6, 2016
+* M. A. Ewais, **M. A. Omran**, A. Raafat, and Y. Alkabani. "A virtual memory architecture to enhance stt-ram performance as main memory." _In 2016 IEEE Canadian Conference on Electrical  nd Computer Engineering (CCECE)_. [[paper](https://ieeexplore.ieee.org/document/7726657)]
 
 # Teaching Experience
-1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20)
-2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20)
-3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15)
+1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20)  \
+2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20)  \
+3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15)  \
 
+# Awards & Activites 
+1) UBC Graduate Support Initiative (GSI) Awards (2018 -- 2020)  \
+2) IEEE Xtreme 6.0 Competition (rated 9th in Egypt)  \
+3) Instructor for C++ training - VLSI Egypt Summer Courses (July 2015)  \
+4) Acheived 2nd in Mentor Graphics Contest of Design Verification of LC-3 Microcontroler (April 2015)  \
