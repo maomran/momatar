@@ -1,14 +1,16 @@
-# About me 
+# About
 I am a PhD student of Computer Engineering at the SoC lab in  the University of British Columbia,  \
 working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/).
 My research mainly focuses on:  \
 1) Hadware accelerators for 5G systems.  \
 2) Hadware accelerators for Machine Learning workloads.  
 
-# Contact me
-###[[Resume](./docs/resume.pdf)] 
-###[[Linkedin](https://linkedin.com/in/momran66)]
-###Email: mohamed.omran4192@gmai.com
+# Contact
+### Resume 
+[[Resume](./docs/resume.pdf)]  \
+### Linkedin
+[[Linkedin](https://linkedin.com/in/momran66)]  \
+Email: mohamed.omran4192@gmai.com 
 
 # Education
 M.Sc, University of British Columbia, Canada, July 2020 \
