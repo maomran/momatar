@@ -18,6 +18,7 @@ B.Sc, Alexandria University, Egypt, June 2014  \
 Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
 
 # Professional Experience
+|Apr. 2021 -- Present   | Sr. Silicon Design Engineer     | AMD, Markham, Canada|
 |Jan. 2018 -- Apr. 2021 | Research Assistant       | University of British Columbia, Canada             |
 |Feb. 2016 -- Jan. 2018 | Verification Engineer   | Intel Corporation, Malaysia                   |
 |Jan. 2015 -- Jan. 2016 | Research Assistant | American University of Cairo, Egypt             |
