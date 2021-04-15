@@ -10,7 +10,7 @@ My research mainly focused on:
 
 [[Resume](./docs/resume.pdf)] 
 [[Linkedin](https://linkedin.com/in/momran66)]  \
-E-mail: <<first_name>>dot<<last_name>>@amd.com
+E-mail: <<first_name>>.<<last_name>>@amd.com
 
 # Education
 
