@@ -11,7 +11,7 @@ My research mainly focused on:  \
 
 [[Resume](./docs/resume.pdf)] 
 [[Linkedin](https://linkedin.com/in/momran66)]  \
-E-mail: <first_name> dot <last_name>@amd.com
+E-mail: <first_name>.<last_name>@amd.com
 
 # Education
 
@@ -23,10 +23,10 @@ Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
 
 # Professional Experience
 
-|Apr. 2021 -- Present   | Sr. Silicon Design Engineer     | AMD, Markham, Canada                    |
-|Jan. 2018 -- Apr. 2021 | Research Assistant              | University of British Columbia, Canada  |
-|Feb. 2016 -- Jan. 2018 | Verification Engineer           | Intel Corporation, Malaysia             |
-|Jan. 2015 -- Jan. 2016 | Research Assistant              | American University of Cairo, Egypt     |
+|Apr. 2021 -- Present   | Sr. Silicon Design Engineer     | AMD, Markham, Canada                    | \
+|Jan. 2018 -- Apr. 2021 | Research Assistant              | University of British Columbia, Canada  | \
+|Feb. 2016 -- Jan. 2018 | Verification Engineer           | Intel Corporation, Malaysia             | \
+|Jan. 2015 -- Jan. 2016 | Research Assistant              | American University of Cairo, Egypt     | \
 |Oct. 2013 -- Aug. 2014 | Verification Internship         | Si-ware Systems, Egypt                  |
 
 # Publications
