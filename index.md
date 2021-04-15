@@ -39,8 +39,8 @@ applications.", _2020 IEEE 28th Annual International Symposium on Field-Programm
 
 # Teaching Experience
 
-1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20)  \
-2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20)  \
+1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20)
+2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20)
 3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15)  
 
 # Awards & Activites 
