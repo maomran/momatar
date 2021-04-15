@@ -45,7 +45,7 @@ applications.", _2020 IEEE 28th Annual International Symposium on Field-Programm
 
 # Awards & Activites 
 
-1) UBC Graduate Support Initiative (GSI) Awards (2018 -- 2020)  \
-2) IEEE Xtreme 6.0 Competition (rated 9th in Egypt)  \
-3) Instructor for C++ training - VLSI Egypt Summer Courses (July 2015)  \
-4) Acheived 2nd in Mentor Graphics Contest of Design Verification of LC-3 Microcontroler (April 2015)  
+1) UBC Graduate Support Initiative (GSI) Awards (2018 -- 2020) 
+3) IEEE Xtreme 6.0 Competition (rated 9th in Egypt) 
+4) Instructor for C++ training - VLSI Egypt Summer Courses (July 2015)
+5) Acheived 2nd in Mentor Graphics Contest of Design Verification of LC-3 Microcontroler (April 2015)  
