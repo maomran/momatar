@@ -11,7 +11,7 @@ My research mainly focused on:  \
 
 [[Resume](./docs/resume.pdf)] 
 [[Linkedin](https://linkedin.com/in/momran66)]  \
-E-mail: mohamed.omran4192@gmail.com
+**E-mail: <first_name>**.**<lastname>@amd.com**
 
 # Education
 
