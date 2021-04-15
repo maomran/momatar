@@ -38,13 +38,13 @@ applications.", _2020 IEEE 28th Annual International Symposium on Field-Programm
 
 # Teaching Experience
 
-1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20)\
-2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20)\
-3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15)\
+1) (CPEN 291) Computer Engineering Design Studio I, University of British Columbia. (T2'20) \
+2) (CPEN 311) Digital Systems Design, University of British Columbia.(T2’18,T1’19, T2’19,T1’20) \
+3) (CSCE 231) Computer Organization, American University of Cairo.(Fall’15) \
 
 # Awards & Activites 
 
-1) UBC Graduate Support Initiative (GSI) Awards (2018 -- 2020)\
-3) IEEE Xtreme 6.0 Competition (rated 9th in Egypt)\ 
-4) Instructor for C++ training - VLSI Egypt Summer Courses (July 2015)\
+1) UBC Graduate Support Initiative (GSI) Awards (2018 -- 2020) \
+3) IEEE Xtreme 6.0 Competition (rated 9th in Egypt) \ 
+4) Instructor for C++ training - VLSI Egypt Summer Courses (July 2015) \
 5) Acheived 2nd in Mentor Graphics Contest of Design Verification of LC-3 Microcontroler (April 2015) 
