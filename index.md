@@ -1,5 +1,5 @@
 # About
-I am currently working in AMD GPU Graphics team as Sr. Silicon Design Engineer. 
+I am currently working in **AMD GPU Graphics** team as **Sr. Silicon Design Engineer**. 
 Prior to that I was a grad student at the SoC lab in  the University of British Columbia,  \
 working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/) and Professor [Lutz Lampe](http://www.ece.ubc.ca/~lampe/).
 My research mainly focused on:  \
@@ -18,7 +18,7 @@ B.Sc, Alexandria University, Egypt, June 2014  \
 Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
 # Professional Experience
 
-|Apr. 2021 -- Present | Sr. Silicon Design Engineer     | AMD, Markham, Canada             |
+|Apr. 2021 -- Present | Sr. Silicon Design Engineer     | AMD, Markham, Canada|
 |Jan. 2018 -- Apr. 2021 | Research Assistant       | University of British Columbia, Canada             |
 |Feb. 2016 -- Jan. 2018 | Verification Engineer   | Intel Corporation, Malaysia                   |
 |Jan. 2015 -- Jan. 2016 | Research Assistant | American University of Cairo, Egypt             |
