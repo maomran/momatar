@@ -1,6 +1,9 @@
 # About
 
 I am currently working in **AMD GPU Graphics** team as **Sr. Silicon Design Engineer**. \
+I am part of the cache and memory management (CMM) subsytem for the next generation of AMD GPUs. \
+I am responsible for 3 blocks inside the the CMM subystem including the Graphics L1 cache. \
+
 Prior to that I was a grad student at the SoC lab in  the University of British Columbia, working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/) and Professor [Lutz Lampe](http://www.ece.ubc.ca/~lampe/). \
 My research mainly focused on:  
 1) Hadware accelerators for 5G systems.  
