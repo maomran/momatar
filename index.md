@@ -2,7 +2,6 @@
 
 I am currently working in **AMD GPU Graphics** team as **Sr. Silicon Design Engineer**. \
 I am part of the cache and memory management (CMM) subsytem for the next generation of AMD GPUs. \
-I am responsible for 3 blocks inside the the CMM subystem including the Graphics L1 cache. 
 
 Prior to that I was a grad student at the SoC lab in  the University of British Columbia, working with Professor [Mieszko Lis](http://mieszko.ece.ubc.ca/) and Professor [Lutz Lampe](http://www.ece.ubc.ca/~lampe/). \
 My research mainly focused on:  
@@ -11,9 +10,9 @@ My research mainly focused on:
 
 # Contact
 
-[[Resume](./docs/resume.pdf)] 
+[[Resume](./docs/MohamedMatar.pdf)] 
 [[Linkedin](https://linkedin.com/in/momran66)]  \
-E-mail: <<first_name>>.<<last_name>>@amd.com
+E-mail: mohamed.omran4192@gmail.com
 
 # Education
 
@@ -25,7 +24,7 @@ Thesis: [ASIC implementation of TMS320C2X DSP](docs/toledo.pdf)
 
 # Professional Experience
 
-* Apr. 2021 -- Present  | Sr. Silicon Design Engineer       , AMD, Markham, Canada                    
+* Apr. 2021 -- Present  | Sr. Silicon Design Engineer       , AMD, Vancouver, Canada                    
 * Jan. 2018 -- Apr. 2021  | Research Assistant        , University of British Columbia, Canada   
 * Feb. 2016 -- Jan. 2018  | Verification Engineer       , Intel Corporation, Malaysia             
 * Jan. 2015 -- Jan. 2016  | Research Assistant              , American University of Cairo, Egypt      
